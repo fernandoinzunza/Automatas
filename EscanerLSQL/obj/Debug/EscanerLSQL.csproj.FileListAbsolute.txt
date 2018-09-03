@@ -1,1 +1,10 @@
 C:\Users\usuario\Documents\Visual Studio 2013\Projects\EscanerLSQL\EscanerLSQL\bin\Debug\EscanerLSQL.exe.config
+C:\Users\eljon\Source\Repos\Automatas\EscanerLSQL\bin\Debug\EscanerLSQL.exe.config
+C:\Users\eljon\Source\Repos\Automatas\EscanerLSQL\bin\Debug\EscanerLSQL.exe
+C:\Users\eljon\Source\Repos\Automatas\EscanerLSQL\bin\Debug\EscanerLSQL.pdb
+C:\Users\eljon\Source\Repos\Automatas\EscanerLSQL\obj\Debug\EscanerLSQL.csprojResolveAssemblyReference.cache
+C:\Users\eljon\Source\Repos\Automatas\EscanerLSQL\obj\Debug\EscanerLSQL.Form1.resources
+C:\Users\eljon\Source\Repos\Automatas\EscanerLSQL\obj\Debug\EscanerLSQL.Properties.Resources.resources
+C:\Users\eljon\Source\Repos\Automatas\EscanerLSQL\obj\Debug\EscanerLSQL.csproj.GenerateResource.Cache
+C:\Users\eljon\Source\Repos\Automatas\EscanerLSQL\obj\Debug\EscanerLSQL.exe
+C:\Users\eljon\Source\Repos\Automatas\EscanerLSQL\obj\Debug\EscanerLSQL.pdb
