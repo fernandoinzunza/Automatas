@@ -24,7 +24,11 @@ namespace EscanerLSQL
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola mundo 2");
+            for (int i=0; i< 10; i++)
+            {
+                MessageBox.Show("Hola mundo 2");
+            }
+
         }
     }
 }
