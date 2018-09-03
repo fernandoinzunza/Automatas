@@ -12,6 +12,7 @@ namespace EscanerLSQL
 {
     public partial class Form1 : Form
     {
+        string test;
         public Form1()
         {
             InitializeComponent();
@@ -19,15 +20,20 @@ namespace EscanerLSQL
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola mundo");
+            for (int i = 0; i < 3; i++)
+            {
+                MessageBox.Show("Hola mundo");
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            for (int i=0; i< 10; i++)
-            {
+            
                 MessageBox.Show("Hola mundo 2");
-            }
+            test = textBox1.Text;
+            label3.Text = test;
+            
+            
 
         }
     }
